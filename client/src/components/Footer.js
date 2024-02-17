@@ -11,7 +11,7 @@ import {
 import { Link } from "react-router-dom";
 function Footer() {
   return (
-    <div className=" bg-secondery text-white px-10">
+    <div className=" bg-primery text-white px-10">
       <div className=" flex items-center justify-around py-8  ">
         <div className=" flex flex-5 gap-2">
           <SendSharp />

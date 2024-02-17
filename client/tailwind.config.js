@@ -24,7 +24,7 @@ export const theme = {
       bodyColor: "#EBF2F7",
       bgcolor: "rgb(235, 242, 247)",
 
-      primery: "#0d084d",
+      primery: "hsl(214.3, 24.1%, 11.4%)",
       secondery: "#0d084d",
       buttonColor: "#1dbf73",
       brandColor: "#bf4800",
